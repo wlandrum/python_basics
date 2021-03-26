@@ -31,3 +31,5 @@ def win(current_game):
         
 
 win(game)
+
+print("congrats!")
